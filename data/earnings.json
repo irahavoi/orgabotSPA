@@ -1,0 +1,13 @@
+{
+    success: true,
+    earnings: [
+        {id: 1, description: 'Salary', date : '2014-01-01', sum: 2000},
+        {id: 2, description: 'Salary', date : '2014-01-15', sum: 2000},
+        {id: 3, description: 'Salary', date : '2014-02-01', sum: 2000},
+        {id: 4, description: 'Salary', date : '2014-02-15', sum: 2000},
+        {id: 5, description: 'Salary', date : '2014-03-01', sum: 2000},
+        {id: 6, description: 'Salary', date : '2014-03-15', sum: 2000},
+        {id: 7, description: 'Salary', date : '2014-04-01', sum: 2000}
+        
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    success: true,
+    savings: [
+        {id: 1, description: 'Savings account', date : '2014-01-01', sum: 150},
+        {id: 2, description: 'Investments', date : '2014-02-15', sum: 550},
+        {id: 3, description: 'Investments', date : '2014-02-15', sum: 1000}
+        
+    ]
+}

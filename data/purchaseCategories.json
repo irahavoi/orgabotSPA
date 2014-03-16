@@ -1,0 +1,14 @@
+{
+    success: true,
+    categories: [
+        {id: '1', value: 'beauty'},
+        {id: '2', value: 'bills'},
+        {id: '3', value: 'car'},
+        {id: '4', value: 'clothes'},
+        {id: '5', value: 'entertainment'},
+        {id: '6', value: 'food'},
+        {id: '7', value: 'health'},
+        {id: '8', value: 'home'},
+        {id: '9', value: 'other'},
+    ]
+}
